@@ -1,0 +1,29 @@
+.navbar {
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    margin-left: 10px;
+  }
+  
+  .nav-link {
+    color: black;
+  }
+  
+  img{
+    max-width: 600px;
+    padding:50px
+
+  }
+  .nav-link:hover {
+    color: blue;
+  }
+  
+  .nav-link.active {
+    color: red;
+  }
+  
